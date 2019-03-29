@@ -21,7 +21,7 @@ private:
 
 public:
 	Collecotr (String16 name, sp<Storer> storer) {
-		mName = name;
+		mName   = name;
 		mStorer = storer;
 	}
 
